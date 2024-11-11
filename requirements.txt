@@ -10,3 +10,6 @@ pytz==2020.5
 setuptools==70.0.0
 six==1.15.0
 Flask-SQLAlchemy==3.0.3
+flask-jwt-extended==4.6.0
+Werkzeug==3.0.6
+flask_login
